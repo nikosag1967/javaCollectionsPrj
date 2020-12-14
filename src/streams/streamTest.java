@@ -7,6 +7,7 @@ public class streamTest {
 
     public static void main(String[] args){
         // this is a comment
+        //this is a second comment
 
         List<Integer> numbers = Arrays.asList(100,15,9,2,30);
         List<Integer> lessThanTen = new ArrayList<Integer>();
